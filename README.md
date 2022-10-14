@@ -7,7 +7,7 @@
 <div>
  
  [<img src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-app&repo=pixiviz&theme=dark" width="360" alt="Pixiviz">](https://github.com/pwp-app/pixiviz)
- [<img src="https://github-readme-stats.vercel.app/api/pin/?username=mm-account&repo=mm-account&theme=dark" width="360" alt="mm-account">](https://github.com/nanfeng1129/mm-account)
+ [<img src="https://github-readme-stats.vercel.app/api/pin/?username=nanfeng1129&repo=mm-account&theme=dark" width="360" alt="mm-account">](https://github.com/nanfeng1129/mm-account)
  
 </div>
 
